@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CalculatorApp",
+      "request": "launch",
+      "mainClass": "CalculatorApp",
+      "projectName": "cmp129-week12-lab01"
+    },
+    {
+      "type": "java",
       "name": "Run JavaFX Lab (any class name)",
       "request": "launch",
       "mainClass": "LabLauncher"
